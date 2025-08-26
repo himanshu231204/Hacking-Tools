@@ -1,0 +1,39 @@
+This repository, including all its code, documentation, and lists (collectively, the "Content"), is provided for educational and authorized security testing purposes only.
+
+BY ACCESSING, USING, OR CONTRIBUTING TO THIS REPOSITORY, YOU AGREE TO THE TERMS OF THIS LICENSE.
+
+1. Grant of License
+   Permission is hereby granted, free of charge, to any person obtaining a copy of this Content, to use it for the following purposes only:
+   - Ethical security testing and penetration testing on systems for which you have explicit, prior written authorization.
+   - Academic research and education in the field of cybersecurity.
+   - Developing and improving defensive security measures.
+
+2. Restrictions
+   The above grant of license is conditioned on your strict compliance with the following restrictions:
+   - You are strictly prohibited from using the Content for any unlawful or unauthorized purpose.
+   - You must not use the Content to compromise systems you do not own or have explicit permission to test.
+   - You may not use the Content to cause damage, injury, or disruption to any individual, organization, or system.
+   - You are responsible for ensuring your use of any tool complies with all applicable local, state, national, and international laws and regulations.
+
+3. Disclaimer of Warranty
+   THE CONTENT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE CONTENT OR THE USE OR OTHER DEALINGS IN THE CONTENT.
+
+4. Limitation of Liability
+   IN NO EVENT WILL THE AUTHOR, CONTRIBUTORS, OR REPOSITORY MAINTAINERS BE HELD LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, OR ANY LOSS OF PROFITS OR DATA, RESULTING FROM:
+   - YOUR ACCESS TO OR USE OF OR INABILITY TO ACCESS OR USE THE CONTENT.
+   - ANY CONDUCT OR CONTENT OF ANY THIRD PARTY ON THE REPOSITORY.
+   - ANY UNAUTHORIZED ACCESS, USE, OR ALTERATION OF YOUR TRANSMISSIONS OR CONTENT.
+   - THE USE OF ANY TOOL OR TECHNIQUE LISTED IN THIS REPOSITORY.
+
+5. Tools and Dependencies
+   This repository is a curated list of tools developed by third parties. Each individual tool is governed by its own respective license(s). You are solely responsible for understanding and complying with the license terms of any tool you choose to download and use.
+
+6. Ethical Use
+   The field of cybersecurity is built on trust and ethics. You are expected to use the knowledge gained from this repository responsibly and legally. "Ethical Hacking" requires explicit permission. Unauthorized access is a crime.
+
+7. General
+   This License constitutes the entire agreement between you and the repository maintainers concerning the Content. If any part of this License is held invalid or unenforceable, the other parts will remain in full force and effect.
+
+-------------------------------------------------------------------------------
+
+This document is a license agreement and not software code. It is released into the public domain for the benefit of the community.
