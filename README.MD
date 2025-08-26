@@ -1,6 +1,7 @@
 # 🛠️ Hacking-Tools
 
-A curated list of 🕵️‍♂️ penetration testing and ethical hacking tools, organized by category. This collection includes 🐉 Kali Linux tools and other notable utilities.
+# A Curated Arsenal for the Modern Ethical Hacker 🛡️⚔️
+This list categorizes essential tools, many of which are included in the mighty Kali Linux 🐉 distribution. Remember: With great power comes great responsibility. Use these tools only on systems you own or have explicit, written permission to test.
 
 ## 📜 Table of Contents
 
