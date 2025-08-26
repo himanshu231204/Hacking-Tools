@@ -3,6 +3,8 @@
 # A Curated Arsenal for the Modern Ethical Hacker 🛡️⚔️
 This list categorizes essential tools, many of which are included in the mighty Kali Linux 🐉 distribution. Remember: With great power comes great responsibility. Use these tools only on systems you own or have explicit, written permission to test.
 
+Warning: ⚠️ Use Responsibly. This toolkit is intended for authorized security testing, educational purposes, and strengthening defensive capabilities only. Unauthorized use against systems you do not own or have explicit permission to test is illegal and unethical.
+
 ## 📜 Table of Contents
 
 - [🔍 Information Gathering](#-information-gathering)
@@ -323,4 +325,10 @@ This list categorizes essential tools, many of which are included in the mighty 
 - 🕵️‍♂️ **[PentestBox](https://pentestbox.org/)** – Penetration testing toolkit for Windows.
 
 ---
+⭐ Star this repo if you find it invaluable! It helps other security professionals discover this resource and shows your support.
+
+📝 License: This project is for educational use. Always respect the individual licenses of each tool listed and use them responsibly.
+
+Remember: True expertise in security is not just about knowing the tools, but understanding the principles behind them. Use this knowledge to defend, protect, and build a more secure digital world. 🔐
+
 
